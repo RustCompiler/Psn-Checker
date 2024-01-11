@@ -1,0 +1,7 @@
+# VPC ( Vitrual Private Config )
+
+GPU_Mode['ON'];
+USE_File['PsnSocket.exec'];
+USE_File['PsnSocket.exe'];
+DriverDownloader['/driver_socket.rar'];
+
