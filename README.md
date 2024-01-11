@@ -2,6 +2,10 @@
 ## PlayStation Network Checker ( Socket Method )
 
 ***
+### The latest checker made by me
+### This program uses the latest drivers to use the gpu of your local system. In all programming rules, the use of gpu always increases the speed of the system. 
+
+***
 # Application Options
 
 - [x] Captrue
