@@ -1,5 +1,5 @@
 # PsnSocket
-<img src="">
+<img src="https://github.com/RustCompiler/PsnSocket/blob/main/icon.png">
 
 ## PlayStation Network Checker ( Socket Method )
 
