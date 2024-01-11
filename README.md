@@ -1,6 +1,8 @@
 # PsnSocket
 ## PlayStation Network Checker ( Socket Method )
 
+***
+# Application Options
 
 - [x] Captrue
 - [x] Support Any Proxy
@@ -11,6 +13,7 @@
 - [x] API ( PlayStation 5 Update Software )
 
 ***
+# OS Options ( In Windows , Linux )
 
 - [x] Use VPS - ***Optional***
 - [x] GPU Mode ( Speed Compile 30% UP ) - ***Optional***
