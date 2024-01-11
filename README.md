@@ -41,3 +41,10 @@
 
 > [!WARNING]
 > In this method, the api of the ps5 operating system is used to send all the data
+***
+# MultiTask Options
+> This checker can use 100 robots for simultaneous testing
+```self.multitask(CORE).write(cache)```
+### After Check All Combo File ?
+> Auto Delete All Cache!
+***
