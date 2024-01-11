@@ -25,3 +25,12 @@
 - [x] Support All Method ( For Connection Proxy )
 - [x] CPM ( CPU Mode : 700 Max ) - ( GPU Mode : 3000 Max )
 
+
+***
+
+# Example Method Use GPU :
+```HybRunner runner = HybRunner.Cuda("Mandelbrot_CUDA.dll").SetDistrib(32, 32, 16, 16, 1, 0);```
+
+***
+# Frist Plugin ( GPU Mode )
+> The first plugin of this program was the use of gpu. In the future, many plugins are created and are uploaded for free under the name of Patches on this page.
