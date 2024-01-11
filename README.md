@@ -34,3 +34,9 @@
 ***
 # Frist Plugin ( GPU Mode )
 > The first plugin of this program was the use of gpu. In the future, many plugins are created and are uploaded for free under the name of Patches on this page.
+***
+
+# Use Network Method 
+
+> [!WARNING]
+> In this method, the api of the ps5 operating system is used to send all the data
