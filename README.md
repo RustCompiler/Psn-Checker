@@ -4,7 +4,7 @@
 ***
 ### The latest checker made by me
 ### This program uses the latest drivers to use the gpu of your local system. In all programming rules, the use of gpu always increases the speed of the system. 
-
+> In this GitHub page, only a series of plugins will be added over time (and by downloading these plugins, you can optimize the working process of the tool
 ***
 # Application Options
 
