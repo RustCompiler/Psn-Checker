@@ -2,4 +2,4 @@
 ## PlayStation Network Checker ( Socket Method )
 
 
-[*] Captrue
+- [x] #739
