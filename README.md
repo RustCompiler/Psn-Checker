@@ -1,2 +1,5 @@
 # PsnSocket
-PlayStation Network Checker ( Socket Method )
+## PlayStation Network Checker ( Socket Method )
+
+
+[x] Captrue
