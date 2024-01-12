@@ -51,3 +51,5 @@
 # File Proccessing
 ### We use the ( database reader ) method to make files read faster
 > In this method, you can directly give the address of the database file to the tool (or enter the text file), in both cases, this method is one of the fastest ways to read all the files (this file reader does not read the entire file at once). divides it and uses it
+***
+<br><br><br><br>
