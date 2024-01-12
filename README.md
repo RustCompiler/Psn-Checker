@@ -26,7 +26,7 @@
 - [x] Support All Method ( For Connection Proxy )
 - [x] CPM ( CPU Mode : 700 Max ) - ( GPU Mode : 3000 Max )
 
-***
+<br><br>
 
 # PlayStaion Network Ultimate Edition 
 ***
