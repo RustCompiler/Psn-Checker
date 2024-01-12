@@ -7,7 +7,7 @@
 ### This program uses the latest drivers to use the gpu of your local system. In all programming rules, the use of gpu always increases the speed of the system. 
 > In this GitHub page, only a series of plugins will be added over time (and by downloading these plugins, you can optimize the working process of the tool
 ***
-# Application Options
+# Application Options ( Standard Edition )
 
 - [x] Captrue
 - [x] Support Any Proxy
@@ -18,7 +18,7 @@
 - [x] API ( PlayStation 5 Update Software )
 
 ***
-# OS Options ( In Windows , Linux )
+# OS Options ( In Windows , Linux ) Standdard Edition
 
 - [x] Use VPS - ***Optional***
 - [x] GPU Mode ( Speed Compile 30% UP ) - ***Optional***
