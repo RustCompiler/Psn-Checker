@@ -1,6 +1,6 @@
 # PsnSocket <img src="https://github.com/RustCompiler/PsnSocket/blob/main/Template/icon.png">
 
-## PlayStation Network Checker ( Socket Method )
+## PlayStation Network Checker ( Socket Method ) - Standard Edition
 
 ***
 ### The latest checker made by me
@@ -28,7 +28,7 @@
 
 <br><br>
 
-# PlayStaion Network Ultimate Edition 
+# PlayStation Network Checker ( Socket Method ) - Ultimate Edition 
 ***
 <img src="https://github.com/RustCompiler/PsnSocket/blob/main/Template/UE.png">
 <br>
