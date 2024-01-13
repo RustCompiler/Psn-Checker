@@ -32,7 +32,8 @@
 ***
 <img src="https://github.com/RustCompiler/PsnSocket/blob/main/Template/UE.png">
 <br>
-# Application Options ( Standard Edition )
+
+# Application Options ( Ultimate Edition )
 
 - [x] Captrue
 - [x] Support Any Proxy
