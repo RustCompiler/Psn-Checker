@@ -18,7 +18,7 @@
 - [x] API ( PlayStation 5 Update Software )
 
 ***
-# OS Options ( In Windows , Linux ) Standdard Edition
+# OS Options ( In Windows , Linux ) Standard Edition
 
 - [x] Use VPS - ***Optional***
 - [x] GPU Mode ( Speed Compile 30% UP ) - ***Optional***
