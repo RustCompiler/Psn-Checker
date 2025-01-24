@@ -1,3 +1,13 @@
+# This Software It has been patched.
+> In fact, in the new Sony update, which is version 10 and may even be higher at the time you see it
+
+It has been patched due to the addition of serial number checking via the console
+
+And this method no longer works
+
+Although you can run the method again from the console, but only for 1 to 2 tests
+
+
 # PsnSocket <img src="https://github.com/RustCompiler/PsnSocket/blob/main/Template/icon.png">
 
 ## PlayStation Network Checker ( Socket Method ) - Standard Edition
